@@ -1,0 +1,53 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.172 seconds
+Platform assembly: D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: D:\game-projects\src\own\ALLRECALL-U3D\builds\x86\allrecall_Data\Managed\System.Xml.dll (this message is harmless)
+UnloadTime: 0.704500 ms
+<b>Blackboard:</b> No Variable of name 'MenuSceneVars/LongMemTraining' and type 'Boolean' exists on Blackboard ''. Adding new instead...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+<b>Event Received from (slider-ChipsQuantity): </b> 'UpdateUI'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+<b>Event Received from (toggle-LongMemTraining): </b> 'UpdateUI'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+<b>Event Received from (slider-MaxMemTime): </b> 'UpdateUI'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+<b>Event Received from (slider-MinPauseTime): </b> 'UpdateUI'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+<b>Event Received from (Areas Selector): </b> 'UpdateUI'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2e78 -> priority: 1 
+  Thread -> id: 4604 -> priority: 1 
